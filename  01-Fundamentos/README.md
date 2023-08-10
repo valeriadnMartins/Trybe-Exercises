@@ -1,0 +1,1 @@
+# Pasta dedicada aos exercicios de fundamentos 
